@@ -27,7 +27,7 @@
 
 ## 📝 Habilidades de Escritório
 
-- Curso de Excel Básico no SENAI;  
+- Curso de Excel Básico no SENAI (planilhas);
 - Microsoft Word (documentos);  
 - Canva (apresentações, design simples).
 
