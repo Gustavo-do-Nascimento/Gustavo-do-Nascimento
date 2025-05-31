@@ -35,7 +35,7 @@
 
 ## 📫 Contato
 
-- Email: guga110108@gmail.com  
+- Email: gustavo110108@gmail.com  
 - LinkedIn: [linkedin.com/in/gustavo-lange-do-nascimento](https://www.linkedin.com/in/gustavo-lange-do-nascimento)  
 
 ---
