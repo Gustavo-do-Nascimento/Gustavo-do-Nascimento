@@ -1,43 +1,55 @@
-<h1 align="center">👋 Olá! Sou o Gustavo</h1>
+<h1 align="center">Gustavo Lange do Nascimento</h1>
+
+<p align="center">
+Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação
+</p>
 
 ---
 
-## 🧑‍💼 Biografia
+## 👨‍💻 Sobre mim
 
-<p>&emsp;Me chamo Gustavo, tenho 17 anos e sou estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI Blumenau. Gosto de programar, aprender na prática e desenvolver projetos que misturam software e hardware. Também curto tecnologia no geral, além de explorar diferentes áreas da informática. Estou sempre buscando evoluir como desenvolvedor e como profissional.</p>
+<p>&emsp;Tenho interesse em desenvolvimento de software e em como a tecnologia pode ser aplicada para criar soluções melhores. Gosto de aprender na prática, explorando novas ferramentas, desenvolvendo projetos e buscando evoluir constantemente minhas habilidades como desenvolvedor.</p>
 
 ---
 
 ## 🎯 Interesses
 
-- Desenvolvimento Java com foco em backend;
-- Arduino e sistemas embarcados;
-- Banco de dados;
-- Integração de sistemas.
+- Desenvolvimento Backend com Java;
+- Bancos de dados relacionais;
+- Boas práticas de desenvolvimento de software.
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 🛠️ Habilidades Técnicas
 
-- Java (integração com Banco de dados);
-- MySQL (CRUD, modelagem, consultas);
-- Arduino (uso de sensores, programação básica).
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
----
-
-## 📝 Habilidades de Escritório
-
-- Curso de Excel Básico no SENAI (planilhas);
-- Microsoft Word (documentos);  
-- Canva (apresentações, design simples).
+- Java (Desenvolvimento de aplicações);
+- JDBC (Integração entre aplicações Java e bancos de dados);
+- MySQL (Criação de bancos de dados, consultas SQL e operações CRUD).
 
 ---
 
-## 📫 Contato
+## 🧠 Conhecimentos
 
-- Email: gustavo110108@gmail.com  
-- LinkedIn: [linkedin.com/in/gustavo-lange-do-nascimento](https://www.linkedin.com/in/gustavo-lange-do-nascimento)  
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+</p>
+
+- Linux (comandos básicos e gerenciamento de arquivos);
+- Virtualização com Oracle VirtualBox;
+- Fundamentos de Segurança da Informação;
+- Conceitos básicos de redes de computadores.
 
 ---
 
-<h4 align="center">"Aprender na prática. Evoluir sempre."</h4>
+## 📝 Outras Competências
+
+- Microsoft Excel — Curso Básico pelo SENAI;
+- Canva — Criação de apresentações e materiais gráficos simples.
+
+---
