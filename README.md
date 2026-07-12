@@ -1,7 +1,7 @@
 <h1 align="center">Gustavo Lange do Nascimento</h1>
 
 <p align="center">
-Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação
+Desenvolvedor de Software em Formação | Análise e Desenvolvimento de Sistemas
 </p>
 
 ---
@@ -29,6 +29,7 @@ Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formaçã
 </p>
 
 - **Java** (Desenvolvimento de aplicações);
+- **Programação Orientada a Objetos (POO)** (Criação e organização de classes, objetos, atributos e métodos);
 - **JDBC** (Integração entre aplicações Java e bancos de dados);
 - **MySQL** (Criação de bancos de dados, consultas SQL e operações CRUD);
 - **Oracle APEX** (Desenvolvimento de sistemas web com gerenciamento de dados).
